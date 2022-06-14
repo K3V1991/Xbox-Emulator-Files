@@ -9,4 +9,9 @@
 <hr>
 <br />
 
-**Download from Releases Tab**
+## NFO:
+* Flash ROM Image (Bios)
+* MCPX Boot ROM Image
+* Hard Disk Image
+
+<h3>Download from Releases Tab</h3>
